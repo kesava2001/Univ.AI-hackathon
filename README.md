@@ -9,4 +9,4 @@ You are required to use the training dataset to identify patterns that predict d
 Submissions will be evaluated on the basis of roc_auc_score. Only the last submission will be considered for the leaderboard.
 
 # Final Result
-I ended up with 0.75 roc_auc_score, and my rank is 586/1037
+I ended up with 0.75 roc_auc_score, and my rank is 426/846
